@@ -1,0 +1,1 @@
+from arigatou.arigatou import *

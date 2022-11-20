@@ -1,1 +1,0 @@
-from aisatu.arigatou import *
